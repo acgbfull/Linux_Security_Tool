@@ -40,4 +40,3 @@
 ## CHANGE LOG
 
 > 2019/02/12  version:1.0.0
-
